@@ -1,10 +1,12 @@
-package operations;
+package Tests;
 
 import static org.junit.Assert.*;
 
 
 
 import org.junit.Test;
+
+import operations.ResultsReturn;
 
 public class MarksCheck {
 
